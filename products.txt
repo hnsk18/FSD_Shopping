@@ -7,3 +7,4 @@ sno product_name    price
 6   Camera          50000
 7   Printer         40000
 8   Headphones      1000
+7   Printer         40000
