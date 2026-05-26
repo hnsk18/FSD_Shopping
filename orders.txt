@@ -1,0 +1,5 @@
+sno   product_name    quantity    address       total
+1     Laptop          5           Hyderabad     50000
+2     Smartphone      2           Chennai       140000
+3     Tablet          1           Bangalore     80000
+4     Headphones      3           Mumbai        270000
